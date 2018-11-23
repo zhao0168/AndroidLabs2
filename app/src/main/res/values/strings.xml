@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">AndroidLabs</string>
+    <string name="hello_message">Hello World!</string>
+    <string name="ButtonText">I am a button</string>
+    <string name="Login1">Login</string>
+    <string name="Login2">Login Name</string>
+    <string name="pwd1">Password</string>
+    <string name="switch1">What does this do?</string>
+    <string name="Login_btn">Login</string>
+    <string name="radio1">radio button</string>
+    <string name="check1">checkbox</string>
+    <string name="send_btn"> Send </string>
+    <string name="chatbutton">Chat Button</string>
+    <string name="weather">Weather</string>
+    <string name="currentTemp">current temperature</string>
+    <string name="minTemp">minimun tempature</string>
+    <string name="maxTemp">maximun tempature</string>
+    <string name="windSpeed">wind speed</string>
+
+
+</resources>
